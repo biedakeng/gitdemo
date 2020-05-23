@@ -4,8 +4,8 @@ import java.lang.reflect.Field;
 import java.util.Date;
 
 /**
- *
- * @author biebf
+ * @date     2020/05/23
+ * @author   biebf
  */
 public class ReflectDemo {
 
