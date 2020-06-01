@@ -6,4 +6,8 @@ package biebf.git.demo;
  *@version 1.0
  **/
 public class TmpDevBranch {
+
+    public static void main(String[] args) {
+        System.out.println("分支合并冲突解决");
+    }
 }
