@@ -4,4 +4,7 @@ first:
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 
-master modify file
+conflict:
+in branch tmpdev to add this line.then commit and checkout master
+master modify file:
+this line is master write
