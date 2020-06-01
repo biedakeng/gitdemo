@@ -8,3 +8,5 @@ conflict:
 in branch tmpdev to add this line.then commit and checkout master
 master modify file:
 this line is master write
+
+dev: add this line.
