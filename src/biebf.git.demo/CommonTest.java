@@ -8,4 +8,8 @@ package biebf.git.demo;
  * @Version 1.0
  **/
 public class CommonTest {
+
+    public static void main(String[] args) {
+        
+    }
 }
